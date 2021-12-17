@@ -1,0 +1,6 @@
+.block {
+    min-width: 50px;
+    margin: 10px;
+    height: 50px;
+    background-color: green;
+}
