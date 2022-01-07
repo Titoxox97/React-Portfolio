@@ -17,11 +17,11 @@ function App() {
       <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Header />
         <Routes>
-          <Route exact path="/" component={About} />
-          <Route path="/portfolio" component={Portfolio}></Route>
-          <Route path="/contact" component={Contact}></Route>
-          <Route path="/resume" component={Resume}></Route>
-          <Route component={About}></Route>
+          <Route exact path="/" element={<About />} />
+          <Route path="/portfolio" element={<Portfolio />}></Route>
+          <Route path="/contact" element={<Contact />}></Route>
+          <Route path="/resume" element={<Resume />}></Route>
+          <Route element={<About />}></Route>
         </Routes>
         <Footer />
       </BrowserRouter>

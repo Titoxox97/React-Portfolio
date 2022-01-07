@@ -18,7 +18,7 @@ export default function Resume() {
       <div>
         <h1 style={h1}>Resume</h1>
         <p>
-          Download my <a>Resume</a>
+          Download my <a href={require("../../assets/MAresume.pdf")}>Resume</a>
         </p>
 
         <h2>Front-End Proficiencies</h2>
