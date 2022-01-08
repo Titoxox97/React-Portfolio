@@ -32,8 +32,11 @@ function Footer() {
       </div>
 
       <div className="footer-copyright text-center">
-        © 2021 Copyright:
-        <a href="" style={{ color: "black" }}>
+        © 2022 Copyright:
+        <a
+          href="https://github.com/Titoxox97/React-Portfolio"
+          style={{ color: "black" }}
+        >
           {" "}
           Matias Ahrensdorf
         </a>

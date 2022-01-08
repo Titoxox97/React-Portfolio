@@ -38,6 +38,9 @@ function About() {
         </div>
         <p style={Tstyle}>
           <br />
+          My name is Matias Ahrensdorf and I am a young professional seeking to
+          build upon my web development skills. I want to use my current skill
+          set, to make an impact in the finance industry.
           <br />
         </p>
       </div>

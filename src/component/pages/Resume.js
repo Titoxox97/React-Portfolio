@@ -10,7 +10,7 @@ export default function Resume() {
     display: "flex",
     justifyContent: "center",
     alignText: "center",
-    backgroundColor: "#d8e1ff",
+    backgroundColor: "#a2a8d3",
   };
 
   return (
