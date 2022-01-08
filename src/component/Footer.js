@@ -13,9 +13,14 @@ function Footer() {
               className="btn-floating btn-fb mx-1"
               href="https://github.com/Titoxox97"
             >
-              <i className="fab fa-github" style={{ color: "black" }}>
-                {" "}
-              </i>
+              <i
+                className="fa fa-github"
+                style={{
+                  color: "black",
+                  fontSize: "24px",
+                  justifyContent: "center",
+                }}
+              ></i>
             </a>
           </li>
           <li className="list-inline-item">
@@ -23,7 +28,7 @@ function Footer() {
               className="btn-floating btn-li mx-1"
               href="https://www.linkedin.com/in/matias-ahrensdorf-5353b4152"
             >
-              <i className="fab fa-linkedin-in" style={{ color: "black" }}>
+              <i className="fa fa-linkedin" style={{ color: "black" }}>
                 {" "}
               </i>
             </a>
