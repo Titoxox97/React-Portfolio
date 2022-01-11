@@ -4,7 +4,7 @@ function Footer() {
   return (
     <footer
       className="page-footer fixed-bottom font-small"
-      style={{ backgroundColor: "#CD5C5C" }}
+      style={{ backgroundColor: "#7FFFD4" }}
     >
       <div className="container">
         <ul className="list-unstyled list-inline text-center">

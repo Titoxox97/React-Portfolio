@@ -22,11 +22,11 @@ function Project(props) {
   };
 
   return (
-    <div className="col">
+    <div className="col centered">
       <div className="card h-100" style={containerStyle}>
         <a href={deployedLink}>
           <img
-            src={require(`../assets/${imageIcon}`).default}
+            src={require(`../assets/${imageIcon}`)}
             className="card-proj-img"
             alt={descriptionImage}
           />

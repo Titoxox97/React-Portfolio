@@ -59,6 +59,17 @@ const projectsCard = [
     backgroundColor: "#005689",
     id: 5,
   },
+  {
+    deployedLink: " https://titoxox97.github.io/CodeQuiz-CH-4/",
+    imageIcon: "SS-CodeQuiz.png",
+    descriptionImage: "Quiz web page",
+    projectName: "Code Quiz",
+    projectDescription:
+      "Web application allowing user to take a quiz testing them on their knowledge of web development",
+    githubLink: "https://github.com/Titoxox97/CodeQuiz-CH-4",
+    backgroundColor: "#005689",
+    id: 6,
+  },
 ];
 
 function Portfolio() {
