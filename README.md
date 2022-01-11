@@ -44,60 +44,29 @@ WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
 ```
 
-## Mock-Up
+## Screenshots
 
-The following animation shows the web application's appearance and functionality:
+![Screen Shot 2022-01-10 at 9 59 48 PM (2)](https://user-images.githubusercontent.com/87781987/148874419-a06c6b07-bc43-40e8-8e0b-8efec87f7d5f.png)
 
-![User clicks through About Me, Portfolio, Resume, and Contact sections of the webpage and enters information on Contact page.](./Assets/20-react-homework-demo-01.gif)
 
-## Getting Started
+![Screen Shot 2022-01-10 at 10 00 51 PM (2)](https://user-images.githubusercontent.com/87781987/148874429-7205475a-2e8d-44a7-85dc-fbb7534071a8.png)
 
-The application that you built for this module will help you know where to start when building your portfolio. You’ll use Create React App just as you did with your module project, but you should be aware of a few structural differences in the component hierarchy. Your portfolio should include the following:
 
-- A single `Header` component that appears on multiple pages
+![Screen Shot 2022-01-10 at 10 00 57 PM (2)](https://user-images.githubusercontent.com/87781987/148874458-73458b0e-2b13-4c74-b97d-5d61037e7c49.png)
 
-- A single `Navigation` component within the header that will be used to conditionally render the different sections of your portfolio
 
-- A single `Project` component that will be used multiple times in the Portfolio section
+![Screen Shot 2022-01-10 at 10 01 00 PM (2)](https://user-images.githubusercontent.com/87781987/148874441-44841b6a-4ae0-4a8a-9148-eb6d2c1787f0.png)
 
-- A single `Footer` component that appears on multiple pages
+## Technologies
+React, Bootstrap, Mongoose, Node, Express
 
-**Note**: The contact form should be similar to the one you built in the module project. Because this application doesn’t include a back end or connect to an API, you can set up this functionality the same way you did in the module project and add in back-end functionality after you’ve covered it in the next few weeks.
 
-In the meantime, consider adding your email address and phone number on the Contact page.
+## Contact Information
 
-### Projects
+email: matiasahrensdorf@gmail.com
 
-For each project you feature in your portfolio, you should include the following:
+github: https://github.com/Titoxox97
 
-- An image of the deployed application (either a GIF or a screenshot)
 
-- The title of the project
-
-- A link to the deployed application
-
-- A link to the corresponding GitHub repository
-
-### Design
-
-As with the previous portfolio homework, remember that "good" design is subjective; however, your site should look polished. Here are a few guidelines on what that means:
-
-- Use mobile-first design.
-
-- Choose a color palette so that your site doesn't just look like the default Bootstrap theme or an unstyled HTML site. Look into resources like [Coolors](https://coolors.co/) or another color scheme generator to help you create something that will stand out.
-
-- Make sure the font size is large enough to read and that the colors don't cause eye strain.
-
-- Consider using animations and React component libraries. Note that this will not affect your grade, but it may impact how potential employers gauge your knowledge.
-
-## Review
-
-You are required to submit BOTH of the following for review:
-
-- The URL of the functional, deployed application.
-
-- The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
----
-
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+## Author
+Matias Ahrensdorf
