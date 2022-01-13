@@ -39,11 +39,11 @@ function Footer() {
       <div className="footer-copyright text-center">
         © 2022 Copyright:
         <a
-          href="https://github.com/Titoxox97/React-Portfolio"
+          href="https://github.com/Shagens/BLIND-DATE/tree/src"
           style={{ color: "black" }}
         >
           {" "}
-          Matias Ahrensdorf
+          Matias Ahrensdorf, Shikelia Hagens, Celeste Farris, Tia Michaels
         </a>
       </div>
     </footer>

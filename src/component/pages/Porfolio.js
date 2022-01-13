@@ -70,6 +70,18 @@ const projectsCard = [
     backgroundColor: "#005689",
     id: 6,
   },
+
+  {
+    deployedLink: "https://secret-journey-36348.herokuapp.com/",
+    imageIcon: "SS-DateApp.png",
+    descriptionImage: "Dating App Home",
+    projectName: "Cupids BlindFold",
+    projectDescription:
+      "Dating app that is based largely around personality rather than looks. Users profile photos are not revealed until five messages have been exchnaged between users",
+    githubLink: "https://github.com/Shagens/BLIND-DATE",
+    backgroundColor: "#005689",
+    id: 7,
+  },
 ];
 
 function Portfolio() {
