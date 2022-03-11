@@ -9,7 +9,7 @@ function About() {
     display: "flex",
     flexWrap: "wrap",
     justifyContent: "space-around",
-    backgroundColor: "#d8e1ff",
+    backgroundColor: "#9370DB",
   };
   const imageStyle = {
     height: "250px",

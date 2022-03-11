@@ -1,7 +1,7 @@
 import React from "react";
 
 const contactStyle = {
-  backgroundColor: "#d8e1ff",
+  backgroundColor: "#9370DB",
   width: "100%",
 };
 
@@ -12,7 +12,7 @@ export default function Contact() {
         style={{
           marginLeft: "30px",
           marginRight: "30px",
-          backgroundColor: "#d8e1ff",
+          backgroundColor: "#9370DB",
           padding: "15px 15px 15px 15px",
         }}
       >
