@@ -12,7 +12,9 @@ function Project(props) {
   const containerStyle = {
     display: "flex",
     flexWrap: "wrap",
+    flexDirection: "column",
     justifyContent: "center",
+    textAlign: "center",
     position: "relative",
     height: "70%",
     width: "70%",
