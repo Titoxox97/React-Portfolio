@@ -42,9 +42,10 @@ function About() {
         </div>
         <p style={Tstyle}>
           <br />
-          My name is Matias Ahrensdorf and I am a young professional seeking to
-          build upon my web development skills. I want to use my current skill
-          set, to make an impact in the finance industry.
+          My name is Matias Ahrensdorf and I am a young professional seeking work in the finance industry. I want to use my web development skills along 
+          with my background in finance to help companies innovate their financial technologies as the world continues to push towards digital banking.
+          I believe that the finance industry will continue to make this shift and continue to adapt to new technologies that are appearing in the market
+          on a daily basis. I would like nothing more than to be a part of this journey.
           <br />
         </p>
       </div>
