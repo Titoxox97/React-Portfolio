@@ -24,7 +24,7 @@ function About() {
     display: "flex",
     textAlign: "center",
     fontSize: "20px",
-    padding: "90px",
+    padding: "150px",
   };
   const h1 = {
     fontSize: "50px",
