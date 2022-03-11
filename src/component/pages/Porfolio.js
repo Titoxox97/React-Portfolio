@@ -10,7 +10,7 @@ const projectsCard = [
     descriptionImage: "Budget Tracker",
     projectName: "SaveYoMoney",
     projectDescription:
-      "Application that allows people to tracke their spending and earnings.",
+      "Application that allows people to track their spending and earnings.",
     githubLink: "https://github.com/Titoxox97/SaveYoMoney-19",
     backgroundColor: "#e7eaf6",
     id: 1,

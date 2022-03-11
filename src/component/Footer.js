@@ -1,10 +1,17 @@
 import React from "react";
 
+// Footer Layout
+
 function Footer() {
+ 
+
+  // Footer Contents
+
   return (
+
     <footer
-      className="page-footer fixed-bottom font-small"
-      style={{ backgroundColor: "#7FFFD4" }}
+      className="page-footer"
+      // style={{ backgroundColor: "#7FFFD4" }}
     >
       <div className="container">
         <ul className="list-unstyled list-inline text-center">
@@ -39,11 +46,10 @@ function Footer() {
       <div className="footer-copyright text-center">
         © 2022 Copyright:
         <a
-          href="https://github.com/Shagens/BLIND-DATE/tree/src"
           style={{ color: "black" }}
         >
           {" "}
-          Matias Ahrensdorf, Shikelia Hagens, Celeste Farris, Tia Michaels
+          Matias Ahrensdorf
         </a>
       </div>
     </footer>

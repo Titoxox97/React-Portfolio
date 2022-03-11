@@ -1,6 +1,8 @@
 import React from "react";
 import headShot from "../../assets/headShot.jpeg";
 
+// Page Layout
+
 function About() {
   const aboutPage = {
     width: "100%",
@@ -28,6 +30,8 @@ function About() {
     fontSize: "50px",
     marginTop: "20px",
   };
+
+  // Page Contents
 
   return (
     <section style={aboutPage}>
