@@ -12,7 +12,8 @@ const projectsCard = [
     projectDescription:
       "Application that allows people to track their spending and earnings.",
     githubLink: "https://github.com/Titoxox97/SaveYoMoney-19",
-    backgroundColor: "#e7eaf6",
+    backgroundColor: "rgb(80, 200, 255)",
+    backgroundImage: "linear-gradient(45deg, #7FFFD4, #00FFFF, #F0F8FF)",
     id: 1,
   },
   {
@@ -23,7 +24,8 @@ const projectsCard = [
     projectDescription:
       "Application that allows users to make notes for themselves",
     githubLink: "https://github.com/Titoxox97/Note-taker",
-    backgroundColor: "a2a8d3",
+    backgroundColor: "rgb(80, 200, 255)",
+    backgroundImage: "linear-gradient(45deg, #7FFFD4, #00FFFF, #F0F8FF)",
     id: 2,
   },
   {
@@ -34,7 +36,8 @@ const projectsCard = [
     projectDescription:
       "An application allowing the user to view their schedule for the day and uses color coding to determine what time of day it is.",
     githubLink: "https://github.com/Titoxox97/Challenge5-WorkdayPlanner",
-    backgroundColor: "#38598b",
+    backgroundColor: "rgb(80, 200, 255)",
+    backgroundImage: "linear-gradient(45deg, #7FFFD4, #00FFFF, #F0F8FF)",
     id: 3,
   },
   {
@@ -45,7 +48,8 @@ const projectsCard = [
     projectDescription:
       "An application that creates a random password based on certain customizable criteria",
     githubLink: "https://github.com/Titoxox97/Challenge-3-HW",
-    backgroundColor: "#113f67",
+    backgroundColor: "rgb(80, 200, 255)",
+    backgroundImage: "linear-gradient(45deg, #7FFFD4, #00FFFF, #F0F8FF)",
     id: 4,
   },
   {
@@ -56,7 +60,8 @@ const projectsCard = [
     projectDescription:
       "An application that allows you to search for books based on key words",
     githubLink: "https://github.com/Titoxox97/21-BookSearch-Engine",
-    backgroundColor: "#005689",
+    backgroundColor: "rgb(80, 200, 255)",
+    backgroundImage: "linear-gradient(45deg, #7FFFD4, #00FFFF, #F0F8FF)",
     id: 5,
   },
   {
@@ -67,7 +72,8 @@ const projectsCard = [
     projectDescription:
       "Web application allowing user to take a quiz testing them on their knowledge of web development",
     githubLink: "https://github.com/Titoxox97/CodeQuiz-CH-4",
-    backgroundColor: "#005689",
+    backgroundColor: "rgb(80, 200, 255)",
+    backgroundImage: "linear-gradient(45deg, #7FFFD4, #00FFFF, #F0F8FF)",
     id: 6,
   },
 
@@ -79,7 +85,8 @@ const projectsCard = [
     projectDescription:
       "Dating app that is based largely around personality rather than looks. Users profile photos are not revealed until five messages have been exchnaged between users",
     githubLink: "https://github.com/Shagens/BLIND-DATE",
-    backgroundColor: "#005689",
+    backgroundColor: "rgb(80, 200, 255)",
+    backgroundImage: "linear-gradient(45deg, #7FFFD4, #00FFFF, #F0F8FF)",
     id: 7,
   },
 ];

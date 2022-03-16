@@ -1,6 +1,5 @@
 import React from "react";
 
-// Footer Layout
 
 function Footer() {
  
@@ -11,7 +10,6 @@ function Footer() {
 
     <footer
       className="page-footer"
-      // style={{ backgroundColor: "#7FFFD4" }}
     >
       <div className="container">
         <ul className="list-unstyled list-inline text-center">

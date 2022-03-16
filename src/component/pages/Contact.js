@@ -1,9 +1,13 @@
 import React from "react";
 
 const contactStyle = {
-  backgroundColor: "#9370DB",
+  alignContent: "center",
+  backgroundColor: "rgb(80, 200, 255)",
+  backgroundImage: "linear-gradient(45deg, #7FFFD4, #00FFFF, #F0F8FF)",
   width: "100%",
 };
+
+const
 
 export default function Contact() {
   return (
@@ -12,8 +16,9 @@ export default function Contact() {
         style={{
           marginLeft: "30px",
           marginRight: "30px",
-          backgroundColor: "#9370DB",
-          padding: "15px 15px 15px 15px",
+          backgroundColor: "rgb(80, 200, 255)",
+          backgroundImage: "linear-gradient(45deg, #7FFFD4, #00FFFF, #F0F8FF)",
+          padding: "200px",
         }}
       >
         <h1>Contact</h1>
@@ -38,7 +43,7 @@ export default function Contact() {
           </div>
           <div className="mb-3">
             <label for="exampleFormControlTextarea1" className="form-label">
-              Example textarea
+              Note:
             </label>
             <textarea
               className="form-control"

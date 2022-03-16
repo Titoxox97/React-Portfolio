@@ -9,7 +9,8 @@ function About() {
     display: "flex",
     flexWrap: "wrap",
     justifyContent: "space-around",
-    backgroundColor: "#9370DB",
+    backgroundColor: "rgb(80, 200, 255)",
+    backgroundImage: "linear-gradient(45deg, #7FFFD4, #00FFFF, #F0F8FF)",
   };
   const imageStyle = {
     height: "250px",
